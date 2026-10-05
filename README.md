@@ -8,7 +8,7 @@
 
 <a href="https://www.linkedin.com/in/mkharin"><img src="https://img.shields.io/badge/LinkedIn-mkharin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:harinmurugantamil@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-00FF41?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/></a>
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-YOUR__USERNAME-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/mk-harin"><img src="https://img.shields.io/badge/GitHub-mk-harin-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 </div>
 
@@ -121,10 +121,10 @@ A peer-to-peer file-transfer app for devices on the same local Wi-Fi network.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=00FF41&text_color=8b949e&icon_color=00FF41" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=00000000&title_color=00FF41&text_color=8b949e" alt="Top languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mk-harin&show_icons=true&hide_border=true&bg_color=00000000&title_color=00FF41&text_color=8b949e&icon_color=00FF41" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mk-harin&layout=compact&hide_border=true&bg_color=00000000&title_color=00FF41&text_color=8b949e" alt="Top languages"/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=00000000&ring=00FF41&fire=FF3030&currStreakLabel=00FF41&sideLabels=8b949e&dates=888888&currStreakNum=00FF41&sideNums=8b949e" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com?user=mk-harin&hide_border=true&background=00000000&ring=00FF41&fire=FF3030&currStreakLabel=00FF41&sideLabels=8b949e&dates=888888&currStreakNum=00FF41&sideNums=8b949e" alt="GitHub streak"/>
 
 </div>
 
