@@ -27,55 +27,72 @@ I'm **Harin M**, a B.Tech Information Technology graduate (2026) focused on **de
 
 ## ⚡ Technical Skills
 
-**🛡️ Cybersecurity**
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
 
-![SIEM](https://img.shields.io/badge/SIEM-050505?style=flat-square&logo=splunk&logoColor=00FF41)
-![Splunk](https://img.shields.io/badge/Splunk-050505?style=flat-square&logo=splunk&logoColor=00FF41)
-![Security Monitoring](https://img.shields.io/badge/Security_Monitoring-050505?style=flat-square&logoColor=00FF41)
-![Threat Detection](https://img.shields.io/badge/Threat_Detection-050505?style=flat-square&logoColor=00FF41)
-![Log Monitoring](https://img.shields.io/badge/Log_Monitoring-050505?style=flat-square&logoColor=00FF41)
-![Incident Analysis](https://img.shields.io/badge/Incident_Analysis-050505?style=flat-square&logoColor=00FF41)
+### 🛡️ Cybersecurity
 
-**🌐 Networking**
+<img src="https://cdn.simpleicons.org/splunk/00FF41" height="40" alt="splunk"/>
 
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-050505?style=flat-square&logoColor=00FF41)
-![UDP](https://img.shields.io/badge/UDP-050505?style=flat-square&logoColor=00FF41)
-![OSI Model](https://img.shields.io/badge/OSI_Model-050505?style=flat-square&logoColor=00FF41)
-![DNS](https://img.shields.io/badge/DNS-050505?style=flat-square&logoColor=00FF41)
-![DHCP](https://img.shields.io/badge/DHCP-050505?style=flat-square&logoColor=00FF41)
-![HTTP](https://img.shields.io/badge/HTTP-050505?style=flat-square&logoColor=00FF41)
-![NAT](https://img.shields.io/badge/NAT-050505?style=flat-square&logoColor=00FF41)
-![Routing](https://img.shields.io/badge/Routing-050505?style=flat-square&logoColor=00FF41)
-![Troubleshooting](https://img.shields.io/badge/Troubleshooting-050505?style=flat-square&logoColor=00FF41)
+`SIEM` `Splunk` `Security Monitoring` `Threat Detection` `Log Monitoring` `Incident Analysis`
 
-**🔎 Security Analysis Tools**
+</td>
 
-![Wireshark](https://img.shields.io/badge/Wireshark-050505?style=flat-square&logo=wireshark&logoColor=00FF41)
-![Nmap](https://img.shields.io/badge/Nmap-050505?style=flat-square&logoColor=00FF41)
-![TCPDump](https://img.shields.io/badge/TCPDump-050505?style=flat-square&logoColor=00FF41)
-![Airodump-ng](https://img.shields.io/badge/Aircrack--ng-050505?style=flat-square&logoColor=00FF41)
-![Scapy](https://img.shields.io/badge/Scapy-050505?style=flat-square&logoColor=00FF41)
+<td width="33%" valign="top" align="center">
 
-**🐧 Systems**
+### 🌐 Networking
 
-![Linux](https://img.shields.io/badge/Linux-050505?style=flat-square&logo=linux&logoColor=00FF41)
-![Windows](https://img.shields.io/badge/Windows-050505?style=flat-square&logo=windows&logoColor=00FF41)
-![Active Directory](https://img.shields.io/badge/Active_Directory-050505?style=flat-square&logoColor=00FF41)
-![File Permissions](https://img.shields.io/badge/File_Permissions-050505?style=flat-square&logoColor=00FF41)
+<img src="https://cdn.simpleicons.org/cisco/00FF41" height="40" alt="cisco"/>
 
-**🐍 Programming & Automation**
+`TCP/IP` `UDP` `OSI Model` `DNS` `DHCP` `HTTP` `LAN` `NAT` `Routing` `Troubleshooting`
 
-![Python](https://img.shields.io/badge/Python-050505?style=flat-square&logo=python&logoColor=00FF41)
-![Bash](https://img.shields.io/badge/Bash-050505?style=flat-square&logo=gnubash&logoColor=00FF41)
-![Socket Programming](https://img.shields.io/badge/Socket_Programming-050505?style=flat-square&logoColor=00FF41)
-![Security Automation](https://img.shields.io/badge/Security_Automation-050505?style=flat-square&logoColor=00FF41)
-![Playwright](https://img.shields.io/badge/Playwright-050505?style=flat-square&logo=playwright&logoColor=00FF41)
+</td>
 
-**☁️ Cloud**
+<td width="33%" valign="top" align="center">
 
-![AWS EC2](https://img.shields.io/badge/AWS_EC2-050505?style=flat-square&logo=amazonec2&logoColor=00FF41)
-![Amazon S3](https://img.shields.io/badge/Amazon_S3-050505?style=flat-square&logo=amazons3&logoColor=00FF41)
-![AWS IAM](https://img.shields.io/badge/AWS_IAM-050505?style=flat-square&logoColor=00FF41)
+### 🔎 Security Analysis
+
+<img src="https://cdn.simpleicons.org/wireshark/00FF41" height="40" alt="wireshark"/>
+
+`Wireshark` `Nmap` `TCPDump` `Aircrack-ng` `Traffic Analysis` `Network Analysis`
+
+</td>
+
+</tr>
+<tr>
+<td width="33%" valign="top" align="center">
+
+### 🐧 Systems
+
+<img src="https://skillicons.dev/icons?i=linux,windows&theme=dark" height="40" alt="linux,windows"/>
+
+`Linux` `Windows` `Active Directory` `Users & Groups` `File Permissions` `System Config`
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+### 🐍 Programming
+
+<img src="https://skillicons.dev/icons?i=python,bash,playwright&theme=dark" height="40" alt="python,bash,playwright"/>
+
+`Python` `Bash` `Scapy` `Socket Programming` `Security Automation` `Playwright`
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+### ☁️ Cloud
+
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" height="40" alt="aws"/>
+
+`AWS EC2` `Amazon S3` `AWS IAM`
+
+</td>
+
+</tr>
+</table>
 
 ---
 
