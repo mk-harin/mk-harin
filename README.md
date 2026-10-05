@@ -1,402 +1,363 @@
 <div align="center">
 
-<!-- CYBER HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020502,50:002b12,100:00ff41&height=230&section=header&text=HARIN.M&fontSize=64&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=CYBERSECURITY%20%7C%20NETWORK%20SECURITY&descAlignY=60&descColor=9AFFB8&descSize=18"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:001a00,70:003300,100:00ff41&height=230&section=header&text=HARIN.M&fontSize=60&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=CYBERSECURITY%20%7C%20NETWORK%20SECURITY&descAlignY=58&descColor=00FF41&descSize=18"/>
-
-<!-- TERMINAL TYPING -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2200&pause=600&color=00FF41&center=true&vCenter=true&width=800&lines=%3E+root%40harin%3A~%24+./initialize_security_profile;%3E+Loading+security+modules...;%3E+Network+monitoring+%5BONLINE%5D;%3E+SIEM+engine+%5BREADY%5D;%3E+Threat+detection+%5BACTIVE%5D;%3E+Welcome+to+Harin's+Security+Lab"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=750&lines=Cybersecurity+%7C+Network+Security;Security+Monitoring+%7C+SIEM;Linux+%7C+Python+%7C+Networking;Building+%26+Learning+Security"/>
 
 <br>
 
-<!-- STATUS -->
+<img src="https://img.shields.io/badge/SECURITY-ONLINE-00FF41?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/NETWORK-ACTIVE-00FF41?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/SIEM-READY-00FF41?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/THREAT-LOW-FF3030?style=for-the-badge&labelColor=050505"/>
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00FF41?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/SOC-ACTIVE-00FF41?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/SIEM-READY-00FF41?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/THREAT-LOW-FF2222?style=for-the-badge&labelColor=000000"/>
+</div>
+
+<br>
+
+<div align="center">
+
+### `CYBERSECURITY • NETWORK DEFENSE • SECURITY MONITORING`
 
 </div>
 
 ---
 
-## `root@harin:~$ ./security_terminal`
+<table>
+<tr>
+<td width="55%" valign="top">
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                  ██ SECURITY TERMINAL ██                    ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║   USER             : HARIN.M                                ║
-║   CLASSIFICATION   : CYBERSECURITY                          ║
-║   ENVIRONMENT      : LINUX / WINDOWS                        ║
-║   NETWORK          : MONITORING                             ║
-║   SIEM             : READY                                  ║
-║   THREAT ENGINE    : ACTIVE                                 ║
-║                                                              ║
-║   SYSTEM STATUS    : ████████████████████  ONLINE           ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+## 🛡️ About Me
 
-<div align="center">
+I'm **Harin.M**, a B.Tech Information Technology graduate focused on **Cybersecurity, Network Security, Security Monitoring and IT Systems**.
 
-`[ DEFEND ]` `→` `[ DETECT ]` `→` `[ ANALYZE ]` `→` `[ LEARN ]`
+My interests include:
 
-</div>
+* Security monitoring
+* Network traffic analysis
+* SIEM and log monitoring
+* Linux & Windows administration
+* Threat detection
+* Network troubleshooting
+* Cloud technologies
+* Python-based security tools
 
----
+</td>
 
-# `root@harin:~$ whoami`
+<td width="45%" valign="top">
 
-```text
-> Identity loaded...
+## 🟢 Security Status
 
-Name       : Harin.M
-Role       : Cybersecurity / Network Security
-Education  : B.Tech Information Technology
-Focus      : Security Monitoring & Network Security
-Environment: Linux / Windows
-Language   : Python
-Status     : OPEN TO OPPORTUNITIES
-```
+| Module       | Status       |
+| ------------ | ------------ |
+| 🛡️ Security | `ACTIVE`     |
+| 🌐 Network   | `MONITORING` |
+| 📊 SIEM      | `READY`      |
+| 🐧 Linux     | `READY`      |
+| 🐍 Python    | `ACTIVE`     |
+| ☁️ Cloud     | `READY`      |
 
-I'm an **Information Technology graduate** interested in cybersecurity, network security, security monitoring, networking, Linux/Windows administration and cloud technologies.
-
-My goal is to build practical security tools, understand how attacks work, and develop strong defensive security skills.
+</td>
+</tr>
+</table>
 
 ---
 
-# `root@harin:~$ ./system_status`
+# ⚡ Technical Arsenal
 
-<div align="center">
+<table>
+<tr>
 
-| MODULE                  |   STATUS  |
-| :---------------------- | :-------: |
-| 🛡️ Security Monitoring | 🟢 ONLINE |
-| 🌐 Network Analysis     | 🟢 ONLINE |
-| 📊 SIEM / Splunk        |  🟢 READY |
-| 🐧 Linux                |  🟢 READY |
-| 🪟 Windows              |  🟢 READY |
-| 🐍 Python               | 🟢 ACTIVE |
-| ☁️ AWS                  |  🟢 READY |
-| 🔎 Threat Detection     | 🟢 ACTIVE |
+<td align="center" width="25%">
 
-</div>
+### 🛡️ SECURITY
 
----
+<img src="https://img.shields.io/badge/SIEM-00FF41?style=for-the-badge&logoColor=000"/>
+<br>
+<img src="https://img.shields.io/badge/Splunk-00FF41?style=for-the-badge&logo=splunk&logoColor=000"/>
+<br>
+<img src="https://img.shields.io/badge/Threat%20Detection-00FF41?style=for-the-badge"/>
+<br>
+<img src="https://img.shields.io/badge/Security%20Monitoring-00FF41?style=for-the-badge"/>
 
-# `root@harin:~$ ./skills`
+</td>
 
-## 🛡️ Cybersecurity
+<td align="center" width="25%">
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/SIEM-00FF41?style=for-the-badge&logo=elastic&logoColor=000000"/>
-<img src="https://img.shields.io/badge/Splunk-00FF41?style=for-the-badge&logo=splunk&logoColor=000000"/>
-<img src="https://img.shields.io/badge/Security%20Monitoring-00FF41?style=for-the-badge&logoColor=000000"/>
-<img src="https://img.shields.io/badge/Network%20Security-00FF41?style=for-the-badge&logoColor=000000"/>
-<img src="https://img.shields.io/badge/Threat%20Detection-00FF41?style=for-the-badge&logoColor=000000"/>
-
-</div>
-
-### 🔎 Security Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=wireshark" height="55"/>
-<img src="https://img.shields.io/badge/Nmap-00FF41?style=for-the-badge&logoColor=000000"/>
-<img src="https://img.shields.io/badge/Scapy-00FF41?style=for-the-badge&logoColor=000000"/>
-<img src="https://img.shields.io/badge/Airodump--ng-00FF41?style=for-the-badge&logoColor=000000"/>
-<img src="https://img.shields.io/badge/Airmon--ng-00FF41?style=for-the-badge&logoColor=000000"/>
-<img src="https://img.shields.io/badge/TCPDump-00FF41?style=for-the-badge&logoColor=000000"/>
-
-</div>
-
----
-
-## 🌐 Networking
-
-<div align="center">
+### 🌐 NETWORKING
 
 <img src="https://img.shields.io/badge/TCP%2FIP-00FF41?style=for-the-badge"/>
+<br>
 <img src="https://img.shields.io/badge/UDP-00FF41?style=for-the-badge"/>
+<br>
 <img src="https://img.shields.io/badge/DNS-00FF41?style=for-the-badge"/>
+<br>
 <img src="https://img.shields.io/badge/DHCP-00FF41?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HTTP-00FF41?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LAN-00FF41?style=for-the-badge"/>
+<br>
 <img src="https://img.shields.io/badge/NAT-00FF41?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Routing-00FF41?style=for-the-badge"/>
 
-</div>
+</td>
 
----
+<td align="center" width="25%">
 
-## 🐧 Operating Systems
+### 🔎 ANALYSIS
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,windows" height="60"/>
-
+<img src="https://skillicons.dev/icons?i=wireshark" height="45"/>
 <br><br>
+<img src="https://img.shields.io/badge/Nmap-00FF41?style=for-the-badge"/>
+<br>
+<img src="https://img.shields.io/badge/Scapy-00FF41?style=for-the-badge"/>
+<br>
+<img src="https://img.shields.io/badge/TCPDump-00FF41?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Linux%20Administration-00FF41?style=for-the-badge&logo=linux&logoColor=000000"/>
-<img src="https://img.shields.io/badge/Windows%20Administration-00FF41?style=for-the-badge&logo=windows&logoColor=000000"/>
-<img src="https://img.shields.io/badge/Active%20Directory-00FF41?style=for-the-badge&logo=microsoft&logoColor=000000"/>
-<img src="https://img.shields.io/badge/User%20%26%20Group%20Management-00FF41?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/File%20Permissions-00FF41?style=for-the-badge"/>
+</td>
+
+<td align="center" width="25%">
+
+### 🐧 SYSTEMS
+
+<img src="https://skillicons.dev/icons?i=linux,windows" height="45"/>
+<br><br>
+<img src="https://img.shields.io/badge/Active%20Directory-00FF41?style=for-the-badge"/>
+<br>
+<img src="https://img.shields.io/badge/User%20Management-00FF41?style=for-the-badge"/>
+<br>
 <img src="https://img.shields.io/badge/Troubleshooting-00FF41?style=for-the-badge"/>
 
-</div>
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 🐍 Programming
+# 💻 Development & Cloud
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,bash" height="60"/>
+<img src="https://skillicons.dev/icons?i=python,bash,aws,linux,windows" height="65"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Python-00FF41?style=for-the-badge&logo=python&logoColor=000000"/>
-<img src="https://img.shields.io/badge/Bash-00FF41?style=for-the-badge&logo=gnubash&logoColor=000000"/>
-<img src="https://img.shields.io/badge/Socket%20Programming-00FF41?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Network%20Programming-00FF41?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-00FF41?style=for-the-badge&logo=python&logoColor=000"/>
+<img src="https://img.shields.io/badge/Bash-00FF41?style=for-the-badge&logo=gnubash&logoColor=000"/>
+<img src="https://img.shields.io/badge/AWS%20EC2-00FF41?style=for-the-badge&logo=amazonaws&logoColor=000"/>
+<img src="https://img.shields.io/badge/Amazon%20S3-00FF41?style=for-the-badge&logo=amazons3&logoColor=000"/>
+<img src="https://img.shields.io/badge/AWS%20IAM-00FF41?style=for-the-badge&logo=amazonaws&logoColor=000"/>
 
 </div>
 
 ---
 
-## ☁️ Cloud
+# 🔴 Security Projects
 
-<div align="center">
+<table>
+<tr>
 
-<img src="https://skillicons.dev/icons?i=aws" height="60"/>
+<td width="50%" valign="top">
+
+<h2>🔴 Wi-Fi Attack Detection</h2>
+
+<img src="https://img.shields.io/badge/SECURITY%20PROJECT-FF3030?style=for-the-badge&labelColor=050505"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/AWS%20EC2-00FF41?style=for-the-badge&logo=amazonaws&logoColor=000000"/>
-<img src="https://img.shields.io/badge/Amazon%20S3-00FF41?style=for-the-badge&logo=amazons3&logoColor=000000"/>
-<img src="https://img.shields.io/badge/AWS%20IAM-00FF41?style=for-the-badge&logo=amazonaws&logoColor=000000"/>
+A wireless security monitoring application designed to identify suspicious Wi-Fi activity.
 
-</div>
+**Detection capabilities**
 
----
+* Deauthentication attacks
+* Rogue access points
+* MAC spoofing
+* Sniffing attempts
+* Evil Twin attacks
+* Wireless traffic analysis
+* Router-based user blocking
 
-# `root@harin:~$ ls ./security-lab`
-
-## 🔴 `WIFI_ATTACK_DETECTION`
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/THREAT%20DETECTION-ACTIVE-FF2222?style=for-the-badge&labelColor=000000"/>
-
-</div>
-
-```text
-┌────────────────────────────────────────────────────────────┐
-│                 WI-FI ATTACK DETECTION                     │
-├────────────────────────────────────────────────────────────┤
-│                                                            │
-│  [✓] Deauthentication Attack Detection                     │
-│  [✓] Rogue Access Point Detection                          │
-│  [✓] MAC Spoofing Detection                               │
-│  [✓] Sniffing Attempt Detection                           │
-│  [✓] Evil Twin Detection                                  │
-│  [✓] Wireless Traffic Analysis                            │
-│  [✓] Router-based User Blocking                           │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
-```
-
-**Stack**
+**Technology**
 
 `Python` `Scapy` `Linux` `Airmon-ng` `Airodump-ng` `Wireshark` `TCPDump`
 
-> Wireless security monitoring application designed to identify suspicious Wi-Fi activity.
+</td>
 
----
+<td width="50%" valign="top">
 
-## 🟢 `HOTSPOT_FILE_TRANSFER`
+<h2>🟢 Hotspot File Transfer</h2>
 
-<div align="center">
+<img src="https://img.shields.io/badge/NETWORK%20PROJECT-00FF41?style=for-the-badge&labelColor=050505"/>
 
-<img src="https://img.shields.io/badge/NETWORK%20PROJECT-ONLINE-00FF41?style=for-the-badge&labelColor=000000"/>
+<br><br>
 
-</div>
+Peer-to-peer file-transfer application designed for communication between devices over a local Wi-Fi network.
 
-```text
-┌────────────────────────────────────────────────────────────┐
-│                 HOTSPOT FILE TRANSFER                     │
-├────────────────────────────────────────────────────────────┤
-│                                                            │
-│  [✓] Device Discovery                                     │
-│  [✓] Local Wi-Fi Communication                            │
-│  [✓] TCP File Transfer                                    │
-│  [✓] UDP Communication                                    │
-│  [✓] Socket Programming                                   │
-│  [✓] Peer-to-Peer Transfer                               │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
-```
+**Capabilities**
 
-**Stack**
+* Device discovery
+* Local device communication
+* TCP file transfer
+* UDP communication
+* Socket programming
+* Wireless networking
+
+**Technology**
 
 `Python` `TCP` `UDP` `Sockets` `Wi-Fi`
 
----
+</td>
 
-# `root@harin:~$ ./experience`
-
-```text
-┌────────────────────────────────────────────────────────────┐
-│ QA AUTOMATION INTERN                                      │
-│ Zoho Corporation                                         │
-│ September 2025 → November 2025                            │
-├────────────────────────────────────────────────────────────┤
-│                                                            │
-│  > Worked on Zoho Analytics Plus                          │
-│  > Developed automated test cases using Playwright        │
-│  > Executed functional testing                            │
-│  > Identified and reproduced defects                      │
-│  > Documented defects                                     │
-│  > Supported QA team and test coverage                    │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
-```
+</tr>
+</table>
 
 ---
 
-# `root@harin:~$ ./education`
+# 🧪 Experience
 
-### 🎓 B.Tech — Information Technology
+<table>
+<tr>
+<td width="15%" align="center">
 
-```text
-Institution : AVC College of Engineering
-CGPA        : 8.18
-Period      : 2023 → 2026
-```
+### 2025
 
-### 🎓 Diploma — Information Technology
+</td>
 
-```text
-Institution : AVC Polytechnic College
-Grade       : 94%
-Period      : 2020 → 2023
-```
+<td>
+
+### QA Automation Intern — Zoho Corporation
+
+**September 2025 → November 2025**
+
+* Worked on Zoho Analytics Plus
+* Developed automated test cases using Playwright
+* Executed functional testing
+* Identified and reproduced defects
+* Documented defects
+* Supported QA team and test coverage
+
+</td>
+</tr>
+</table>
 
 ---
 
-# `root@harin:~$ ./certifications`
+# 🎓 Education
+
+<table>
+<tr>
+
+<td width="50%">
+
+### B.Tech — Information Technology
+
+**AVC College of Engineering**
+
+`CGPA: 8.18`
+
+`2023 → 2026`
+
+</td>
+
+<td width="50%">
+
+### Diploma — Information Technology
+
+**AVC Polytechnic College**
+
+`Grade: 94%`
+
+`2020 → 2023`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🏆 Certification
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/CISCO%20NETWORKING%20ACADEMY-00FF41?style=for-the-badge&logo=cisco&logoColor=000000"/>
+<img src="https://img.shields.io/badge/CISCO%20NETWORKING%20ACADEMY-00FF41?style=for-the-badge&logo=cisco&logoColor=000"/>
 
-```text
-┌───────────────────────────────────────┐
-│       ETHICAL HACKER                  │
-│       Cisco Networking Academy        │
-│       2025                            │
-└───────────────────────────────────────┘
-```
+### Ethical Hacker
+
+`Cisco Networking Academy • 2025`
 
 </div>
 
 ---
 
-# `root@harin:~$ ./current_focus`
+# 🎯 Current Focus
 
-```text
-┌──────────────────────────────────────────────────────────┐
-│                  CURRENT MISSION                         │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  [01] Cybersecurity                                     │
-│  [02] SOC Operations                                    │
-│  [03] Security Monitoring                               │
-│  [04] Network Security                                  │
-│  [05] SIEM / Log Analysis                               │
-│  [06] Linux Security                                    │
-│  [07] Network Traffic Analysis                          │
-│  [08] Threat Detection                                  │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
+<table>
+<tr>
+
+<td align="center">🛡️<br><b>Cybersecurity</b></td>
+<td align="center">🔎<br><b>Threat Detection</b></td>
+<td align="center">📊<br><b>SIEM</b></td>
+<td align="center">🌐<br><b>Network Security</b></td>
+
+</tr>
+
+<tr>
+
+<td align="center">🐧<br><b>Linux</b></td>
+<td align="center">📡<br><b>Traffic Analysis</b></td>
+<td align="center">🐍<br><b>Python</b></td>
+<td align="center">☁️<br><b>AWS</b></td>
+
+</tr>
+</table>
 
 ---
 
-# `root@harin:~$ ./github_stats`
+# 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=050505&title_color=00FF41&text_color=00FF41&icon_color=00FF41&ring_color=00FF41"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=050505&title_color=00FF41&text_color=00FF41"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=050805&title_color=00FF41&text_color=B8FFCC&icon_color=00FF41"/>
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=050505&ring=00FF41&fire=FF2222&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41&currStreakNum=00FF41&sideNums=00FF41"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=050805&title_color=00FF41&text_color=B8FFCC"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=050805&ring=00FF41&fire=FF3030&currStreakLabel=00FF41&sideLabels=00FF41&dates=78A889&currStreakNum=00FF41&sideNums=00FF41"/>
 
 </div>
 
 ---
 
-# `root@harin:~$ ./activity`
+# 🐍 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=050505&color=00FF41&line=00FF41&point=FF2222&area=true&hide_border=true"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
 ---
 
-# `root@harin:~$ ./contribution_map`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
-
-</div>
-
----
-
-# `root@harin:~$ ./security_motto`
-
-<div align="center">
-
-```text
-╔════════════════════════════════════════════════════════╗
-║                                                        ║
-║       DEFEND. DETECT. ANALYZE. LEARN. REPEAT.         ║
-║                                                        ║
-╚════════════════════════════════════════════════════════╝
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=%3E+Keep+learning.;%3E+Keep+building.;%3E+Keep+securing.;%3E+Security+is+a+continuous+process."/>
-
-</div>
-
----
-
-# `root@harin:~$ ./connect`
+# 📡 Connect
 
 <div align="center">
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FF41"/>
 </a>
 
 <a href="https://www.linkedin.com/in/mkharin">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41"/>
 </a>
 
 <a href="mailto:harinmurugantamil@gmail.com">
-<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF41"/>
 </a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VISITS&color=00FF41&style=for-the-badge"/>
 
 </div>
 
@@ -404,16 +365,8 @@ Period      : 2020 → 2023
 
 <div align="center">
 
-```text
-> connection established...
-> security modules loaded...
-> monitoring network...
-> analyzing threats...
-> waiting for next operation...
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:003300,100:020502&height=120&section=footer"/>
 
-root@harin:~$ _
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:003300,100:000000&height=120&section=footer"/>
+### `DEFEND • DETECT • ANALYZE • LEARN`
 
 </div>
