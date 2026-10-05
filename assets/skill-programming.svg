@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="186" viewBox="0 0 360 186">
+<rect x="1.5" y="1.5" width="357" height="183" rx="14" fill="#070d07" stroke="#00FF41" stroke-width="1.5"/>
+<text x="180.0" y="38" text-anchor="middle" font-family="Consolas,'Fira Code','Courier New',monospace" font-size="18" font-weight="bold" fill="#00FF41">PROGRAMMING</text>
+<line x1="22" y1="52" x2="338" y2="52" stroke="#00FF41" stroke-opacity="0.35"/>
+<rect x="76.8" y="70" width="71.4" height="26" rx="13" fill="#0e1a0e" stroke="#00FF41" stroke-opacity="0.55"/>
+<text x="112.5" y="87.5" text-anchor="middle" font-family="Consolas,'Fira Code','Courier New',monospace" font-size="13" fill="#d6ffd9">Python</text>
+<rect x="156.2" y="70" width="55.6" height="26" rx="13" fill="#0e1a0e" stroke="#00FF41" stroke-opacity="0.55"/>
+<text x="184.0" y="87.5" text-anchor="middle" font-family="Consolas,'Fira Code','Courier New',monospace" font-size="13" fill="#d6ffd9">Bash</text>
+<rect x="219.8" y="70" width="63.5" height="26" rx="13" fill="#0e1a0e" stroke="#00FF41" stroke-opacity="0.55"/>
+<text x="251.5" y="87.5" text-anchor="middle" font-family="Consolas,'Fira Code','Courier New',monospace" font-size="13" fill="#d6ffd9">Scapy</text>
+<rect x="96.9" y="104" width="166.2" height="26" rx="13" fill="#0e1a0e" stroke="#00FF41" stroke-opacity="0.55"/>
+<text x="180.0" y="121.5" text-anchor="middle" font-family="Consolas,'Fira Code','Courier New',monospace" font-size="13" fill="#d6ffd9">Socket Programming</text>
+<rect x="37.4" y="138" width="174.1" height="26" rx="13" fill="#0e1a0e" stroke="#00FF41" stroke-opacity="0.55"/>
+<text x="124.5" y="155.5" text-anchor="middle" font-family="Consolas,'Fira Code','Courier New',monospace" font-size="13" fill="#d6ffd9">Security Automation</text>
+<rect x="219.5" y="138" width="103.0" height="26" rx="13" fill="#0e1a0e" stroke="#00FF41" stroke-opacity="0.55"/>
+<text x="271.0" y="155.5" text-anchor="middle" font-family="Consolas,'Fira Code','Courier New',monospace" font-size="13" fill="#d6ffd9">Playwright</text>
+</svg>

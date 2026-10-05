@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="220" viewBox="0 0 360 220">
+<rect x="1.5" y="1.5" width="357" height="217" rx="14" fill="#070d07" stroke="#00FF41" stroke-width="1.5"/>
+<text x="180.0" y="38" text-anchor="middle" font-family="Consolas,'Fira Code','Courier New',monospace" font-size="18" font-weight="bold" fill="#00FF41">NETWORKING</text>
+<line x1="22" y1="52" x2="338" y2="52" stroke="#00FF41" stroke-opacity="0.35"/>
+<rect x="37.0" y="70" width="71.4" height="26" rx="13" fill="#0e1a0e" stroke="#00FF41" stroke-opacity="0.55"/>
+<text x="72.7" y="87.5" text-anchor="middle" font-family="Consolas,'Fira Code','Courier New',monospace" font-size="13" fill="#d6ffd9">TCP/IP</text>
+<rect x="116.4" y="70" width="47.7" height="26" rx="13" fill="#0e1a0e" stroke="#00FF41" stroke-opacity="0.55"/>
+<text x="140.3" y="87.5" text-anchor="middle" font-family="Consolas,'Fira Code','Courier New',monospace" font-size="13" fill="#d6ffd9">UDP</text>
+<rect x="172.1" y="70" width="95.1" height="26" rx="13" fill="#0e1a0e" stroke="#00FF41" stroke-opacity="0.55"/>
+<text x="219.7" y="87.5" text-anchor="middle" font-family="Consolas,'Fira Code','Courier New',monospace" font-size="13" fill="#d6ffd9">OSI Model</text>
+<rect x="275.2" y="70" width="47.7" height="26" rx="13" fill="#0e1a0e" stroke="#00FF41" stroke-opacity="0.55"/>
+<text x="299.1" y="87.5" text-anchor="middle" font-family="Consolas,'Fira Code','Courier New',monospace" font-size="13" fill="#d6ffd9">DNS</text>
+<rect x="64.7" y="104" width="55.6" height="26" rx="13" fill="#0e1a0e" stroke="#00FF41" stroke-opacity="0.55"/>
+<text x="92.5" y="121.5" text-anchor="middle" font-family="Consolas,'Fira Code','Courier New',monospace" font-size="13" fill="#d6ffd9">DHCP</text>
+<rect x="128.3" y="104" width="55.6" height="26" rx="13" fill="#0e1a0e" stroke="#00FF41" stroke-opacity="0.55"/>
+<text x="156.1" y="121.5" text-anchor="middle" font-family="Consolas,'Fira Code','Courier New',monospace" font-size="13" fill="#d6ffd9">HTTP</text>
+<rect x="191.9" y="104" width="47.7" height="26" rx="13" fill="#0e1a0e" stroke="#00FF41" stroke-opacity="0.55"/>
+<text x="215.7" y="121.5" text-anchor="middle" font-family="Consolas,'Fira Code','Courier New',monospace" font-size="13" fill="#d6ffd9">LAN</text>
+<rect x="247.6" y="104" width="47.7" height="26" rx="13" fill="#0e1a0e" stroke="#00FF41" stroke-opacity="0.55"/>
+<text x="271.4" y="121.5" text-anchor="middle" font-family="Consolas,'Fira Code','Courier New',monospace" font-size="13" fill="#d6ffd9">NAT</text>
+<rect x="65.1" y="138" width="79.3" height="26" rx="13" fill="#0e1a0e" stroke="#00FF41" stroke-opacity="0.55"/>
+<text x="104.8" y="155.5" text-anchor="middle" font-family="Consolas,'Fira Code','Courier New',monospace" font-size="13" fill="#d6ffd9">Routing</text>
+<rect x="152.4" y="138" width="142.5" height="26" rx="13" fill="#0e1a0e" stroke="#00FF41" stroke-opacity="0.55"/>
+<text x="223.7" y="155.5" text-anchor="middle" font-family="Consolas,'Fira Code','Courier New',monospace" font-size="13" fill="#d6ffd9">Troubleshooting</text>
+</svg>
