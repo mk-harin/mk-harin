@@ -1,107 +1,148 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00ff41&height=220&section=header&text=HARIN.M&fontSize=55&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=CYBERSECURITY%20%7C%20NETWORK%20SECURITY&descAlignY=58&descColor=ff3333&descSize=18"/>
+<!-- CYBER HEADER -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&color=00FF41&center=true&vCenter=true&width=700&lines=%3E+Initializing+security+profile...;%3E+Loading+network+security+modules...;%3E+SOC+monitoring+%5BONLINE%5D;%3E+Threat+detection+%5BENABLED%5D;%3E+Welcome+to+Harin's+Security+Lab"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=HARIN.M&fontSize=65&fontColor=00ff41&animation=twinkling&fontAlignY=38&desc=CYBERSECURITY%20%2F%2F%20NETWORK%20SECURITY&descSize=20&descAlignY=58&descColor=00ff41"/>
+
+<!-- TERMINAL ANIMATION -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=1800&pause=500&color=00FF41&background=00000000&center=true&vCenter=true&width=800&height=100&lines=%5B+BOOTING+SECURITY+SYSTEM...+%5D;%5B+LOADING+NETWORK+MODULES...+%5D;%5B+INITIALIZING+SOC+ENVIRONMENT...+%5D;%5B+THREAT+MONITORING%3A+ACTIVE+%5D;%5B+SYSTEM+READY+%3A%3E+HARIN.M+%5D"/>
 
 <br>
 
-```text
+```text id="z5b1cq"
 ╔══════════════════════════════════════════════════════════════╗
-║                  SECURITY TERMINAL v1.0                     ║
+║                  ██ SECURITY TERMINAL ██                    ║
 ╠══════════════════════════════════════════════════════════════╣
-║  USER       : HARIN.M                                      ║
-║  ROLE       : CYBERSECURITY / NETWORK SECURITY             ║
-║  STATUS     : [ ONLINE ]                                   ║
-║  SOC        : [ ACTIVE ]                                   ║
-║  MONITORING : [ ENABLED ]                                  ║
-║  THREAT     : [ LOW ]                                      ║
+║                                                              ║
+║   USER             : HARIN.M                                ║
+║   CLASSIFICATION   : CYBERSECURITY                          ║
+║   ENVIRONMENT      : LINUX / WINDOWS                        ║
+║   NETWORK          : MONITORING                             ║
+║   SIEM             : READY                                  ║
+║   THREAT ENGINE    : ACTIVE                                 ║
+║                                                              ║
+║   SYSTEM STATUS    : ████████████████████  ONLINE           ║
+║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
+
+<br>
+
+<img src="https://img.shields.io/badge/%3E%20SYSTEM-ONLINE-00ff41?style=for-the-badge&labelColor=001a00"/>
+<img src="https://img.shields.io/badge/%3E%20SOC-ACTIVE-00ff41?style=for-the-badge&labelColor=001a00"/>
+<img src="https://img.shields.io/badge/%3E%20THREAT-LOW-00ff41?style=for-the-badge&labelColor=001a00"/>
+<img src="https://img.shields.io/badge/%3E%20NETWORK-MONITORED-00ff41?style=for-the-badge&labelColor=001a00"/>
 
 </div>
 
 ---
 
-## `root@harin:~$ whoami`
+## `root@harin:~$ ./whoami`
 
-```text
-B.Tech Information Technology Graduate
-
-Cybersecurity
-Network Security
-Security Monitoring
-Network Analysis
-Linux & Windows Administration
-Cloud Computing
-Python
+```text id="1v2cbm"
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  HARIN.M                                                 │
+│                                                          │
+│  B.Tech Information Technology Graduate                  │
+│                                                          │
+│  Focus                                                   │
+│  ├── Cybersecurity                                      │
+│  ├── Network Security                                   │
+│  ├── Security Monitoring                                │
+│  ├── Network Analysis                                   │
+│  ├── Linux / Windows Administration                     │
+│  └── Cloud Computing                                    │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 ```
 
-> Interested in cybersecurity, network security, security monitoring and practical security engineering.
+> `Security is a process. Detection is the first line of defense.`
 
 ---
 
-## `root@harin:~$ ./security_status`
+## `root@harin:~$ ./matrix_monitor`
 
-```text
-┌────────────────────────────────────────────────────┐
-│             SECURITY OPERATIONS STATUS             │
-├────────────────────────────────────────────────────┤
-│                                                    │
-│  [✓] NETWORK MONITORING        ONLINE             │
-│  [✓] SECURITY ANALYSIS         ONLINE             │
-│  [✓] LOG MONITORING            ONLINE             │
-│  [✓] SIEM                      READY              │
-│  [✓] LINUX ENVIRONMENT         READY              │
-│  [✓] PYTHON SECURITY TOOLS     READY              │
-│                                                    │
-└────────────────────────────────────────────────────┘
+```text id="y8kq6m"
+01001000 01100001 01110010 01101001 01101110
+
+[NETWORK PACKETS]
+████████████████████████████████████████████
+
+[SECURITY EVENTS]
+████████████████████████████████████░░░░░░
+
+[THREAT DETECTION]
+████████████████████████████████████████
+
+[SIEM MONITORING]
+███████████████████████████████████░░░░░
+
+STATUS :: SYSTEM SECURE
 ```
 
 ---
 
-# `root@harin:~$ ls ./security-lab`
+# `root@harin:~$ ls -la ./security-lab`
 
-### `[01] WIFI_ATTACK_DETECTION`
-
-**Wi-Fi Attack Detection System**
-
-```text
-[+] Deauthentication Attack Detection
-[+] Rogue Access Point Detection
-[+] MAC Spoofing Detection
-[+] Sniffing Attempt Detection
-[+] Evil Twin Detection
-[+] Wireless Traffic Analysis
-[+] Router-based User Blocking
+```text id="kw7v9z"
+drwx------  WIFI_ATTACK_DETECTION
+drwx------  HOTSPOT_FILE_TRANSFER
+drwx------  NETWORK_ANALYSIS
+drwx------  SECURITY_MONITORING
 ```
 
-**Tech Stack**
+---
+
+## `[01] WIFI_ATTACK_DETECTION`
+
+```text id="b5h3xq"
+╔══════════════════════════════════════════════════════════╗
+║                 WIFI SECURITY LAB                        ║
+╠══════════════════════════════════════════════════════════╣
+║                                                          ║
+║  [✓] Deauthentication Attack Detection                  ║
+║  [✓] Rogue Access Point Detection                       ║
+║  [✓] MAC Spoofing Detection                             ║
+║  [✓] Sniffing Attempt Detection                         ║
+║  [✓] Evil Twin Detection                                ║
+║  [✓] Wireless Traffic Analysis                          ║
+║  [✓] Router-based User Blocking                         ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+### `TOOLS`
 
 `Python` `Scapy` `Linux` `Airmon-ng` `Airodump-ng` `Wireshark` `TCPDump`
 
 ---
 
-### `[02] HOTSPOT_FILE_TRANSFER`
+## `[02] HOTSPOT_FILE_TRANSFER`
 
-**Hotspot File Transfer System**
-
-```text
-[+] Local Device Discovery
-[+] Peer-to-Peer Communication
-[+] TCP File Transfer
-[+] UDP Communication
-[+] Wi-Fi Networking
-[+] Socket Programming
+```text id="n3l8pc"
+╔══════════════════════════════════════════════════════════╗
+║                NETWORK TRANSFER LAB                      ║
+╠══════════════════════════════════════════════════════════╣
+║                                                          ║
+║  [✓] Local Device Discovery                             ║
+║  [✓] Peer-to-Peer Communication                         ║
+║  [✓] TCP File Transfer                                  ║
+║  [✓] UDP Communication                                  ║
+║  [✓] Wi-Fi Networking                                   ║
+║  [✓] Socket Programming                                 ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
-**Tech Stack**
+### `STACK`
 
 `Python` `TCP` `UDP` `Sockets` `Wi-Fi`
 
 ---
 
-## `root@harin:~$ ./toolkit`
+# `root@harin:~$ ./arsenal`
 
 <div align="center">
 
@@ -109,116 +150,147 @@ Python
 
 <img src="https://skillicons.dev/icons?i=linux,windows"/>
 
-### `NETWORK SECURITY`
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=python"/>
+### `PROGRAMMING`
 
-```text
-TCP/IP     UDP        DNS
-DHCP       HTTP       NAT
-Routing    Wireshark  Nmap
-Scapy      Splunk     SIEM
-```
+<img src="https://skillicons.dev/icons?i=python,bash"/>
+
+<br><br>
 
 ### `CLOUD`
 
 <img src="https://skillicons.dev/icons?i=aws"/>
 
-```text
-AWS EC2
-Amazon S3
-AWS IAM
-```
-
 </div>
 
----
+```text id="n7r4yu"
+NETWORK
+────────────────────────────────────────
 
-## `root@harin:~$ ./experience`
+TCP/IP       UDP          DNS
+DHCP         HTTP         NAT
+Routing      LAN          Network Analysis
 
-```text
-┌─────────────────────────────────────────────────────────┐
-│ QA AUTOMATION INTERN                                    │
-│ Zoho Corporation                                        │
-│ Sep 2025 – Nov 2025                                     │
-├─────────────────────────────────────────────────────────┤
-│ • Automated testing using Playwright                    │
-│ • Executed application test cases                       │
-│ • Identified and documented defects                     │
-│ • Improved test coverage with QA team                   │
-└─────────────────────────────────────────────────────────┘
+
+SECURITY
+────────────────────────────────────────
+
+SIEM         Splunk       Wireshark
+Nmap         Scapy        Security Monitoring
+
+
+SYSTEMS
+────────────────────────────────────────
+
+Linux        Windows      Active Directory
+User/Group   Permissions  Troubleshooting
 ```
 
 ---
 
-## `root@harin:~$ ./certifications`
+# `root@harin:~$ ./experience`
 
-```text
-[✓] Ethical Hacker
-    Cisco Networking Academy — 2025
+```text id="4x8jmw"
+┌──────────────────────────────────────────────────────────┐
+│                  ZOHO CORPORATION                        │
+│                  QA AUTOMATION INTERN                    │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  Sep 2025 ── Nov 2025                                   │
+│                                                          │
+│  [+] Playwright automation                               │
+│  [+] Automated test cases                                │
+│  [+] Application functionality testing                   │
+│  [+] Defect identification                               │
+│  [+] Defect documentation                                │
+│  [+] QA test coverage                                    │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## `root@harin:~$ ./education`
+# `root@harin:~$ ./certifications`
 
-```text
+```text id="d0y7qc"
+┌──────────────────────────────────────────────┐
+│ [✓] ETHICAL HACKER                           │
+│     Cisco Networking Academy — 2025          │
+└──────────────────────────────────────────────┘
+```
+
+---
+
+# `root@harin:~$ ./education`
+
+```text id="p4c9ka"
 B.Tech Information Technology
 AVC College of Engineering
-CGPA: 8.18
+CGPA : 8.18
 
 Diploma in Information Technology
 AVC Polytechnic College
-Grade: 94%
+GRADE : 94%
 ```
 
 ---
 
-## `root@harin:~$ ./current_focus`
+# `root@harin:~$ ./current_mission`
 
-```text
-[+] Cybersecurity
-[+] SOC Operations
-[+] Security Monitoring
-[+] Network Security
-[+] SIEM
-[+] Linux
-[+] Network Analysis
-[+] Incident Detection
+```text id="r8z2fd"
+MISSION OBJECTIVES
+──────────────────────────────────────────────
+
+[01] CYBERSECURITY
+[02] SOC OPERATIONS
+[03] SECURITY MONITORING
+[04] NETWORK SECURITY
+[05] SIEM
+[06] NETWORK ANALYSIS
+[07] LINUX
+[08] INCIDENT DETECTION
 ```
 
 ---
 
 <div align="center">
 
-```text
-┌──────────────────────────────────────────────────────┐
-│                 THREAT MONITOR                      │
-├──────────────────────────────────────────────────────┤
-│                                                      │
-│  NETWORK        ████████████████████  ACTIVE         │
-│  MONITORING     ████████████████████  ACTIVE         │
-│  SIEM           ██████████████████░░  READY          │
-│  LINUX          ████████████████████  READY          │
-│  PYTHON         ███████████████████░  ACTIVE         │
-│                                                      │
-└──────────────────────────────────────────────────────┘
+## `>>> LIVE SECURITY CONSOLE <<<`
+
+```text id="g2x7mn"
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│  NETWORK            ████████████████████  [ONLINE]     │
+│  SIEM               ███████████████████░  [ACTIVE]     │
+│  THREAT ENGINE      ████████████████████  [READY]      │
+│  LOG ANALYSIS       ███████████████████░  [ACTIVE]     │
+│  PACKET ANALYSIS    ████████████████████  [READY]      │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+INTRUSIONS&color=00ff41&style=for-the-badge"/>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=SYSTEM+VISITS&color=00ff41&style=for-the-badge"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/SECURITY-ONLINE-00ff41?style=for-the-badge&logo=hackthebox&logoColor=black"/>
-<img src="https://img.shields.io/badge/SOC-ACTIVE-00ff41?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/THREAT-LOW-ff3333?style=for-the-badge"/>
+```text id="q8n3rv"
+01001001 01001110 01010100 01010010 01010101 01010011 01001001 01001111 01001110
 
-<br><br>
+> CONNECTION ESTABLISHED
+> SECURITY MONITORING ENABLED
+> PACKET ANALYSIS READY
+> THREAT DETECTION ACTIVE
 
-```text
-> Connection established...
-> Security monitoring active...
-> Keep learning. Keep building. Keep securing.
+                 [ SYSTEM ONLINE ]
+
+> Keep learning.
+> Keep testing.
+> Keep securing.
 ```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:003300,100:000000&height=120&section=footer"/>
 
 </div>
