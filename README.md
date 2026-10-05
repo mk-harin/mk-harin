@@ -27,72 +27,21 @@ I'm **Harin M**, a B.Tech Information Technology graduate (2026) focused on **de
 
 ## ⚡ Technical Skills
 
-<table>
-<tr>
-<td width="33%" valign="top" align="center">
+<p align="center">
+<img src="https://cdn.simpleicons.org/splunk/00FF41" height="34" alt="splunk"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/cisco/00FF41" height="34" alt="cisco"/>&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/wireshark/00FF41" height="34" alt="wireshark"/>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=linux,windows,python,bash,playwright,aws&theme=dark" height="40" alt="tools"/>
+</p>
 
-### 🛡️ Cybersecurity
+<p align="center">
+<img src="assets/skill-cyber.svg" width="32%" alt="skill-cyber"/>
+<img src="assets/skill-network.svg" width="32%" alt="skill-network"/>
+<img src="assets/skill-analysis.svg" width="32%" alt="skill-analysis"/>
+</p>
 
-<img src="https://cdn.simpleicons.org/splunk/00FF41" height="40" alt="splunk"/>
-
-`SIEM` `Splunk` `Security Monitoring` `Threat Detection` `Log Monitoring` `Incident Analysis`
-
-</td>
-
-<td width="33%" valign="top" align="center">
-
-### 🌐 Networking
-
-<img src="https://cdn.simpleicons.org/cisco/00FF41" height="40" alt="cisco"/>
-
-`TCP/IP` `UDP` `OSI Model` `DNS` `DHCP` `HTTP` `LAN` `NAT` `Routing` `Troubleshooting`
-
-</td>
-
-<td width="33%" valign="top" align="center">
-
-### 🔎 Security Analysis
-
-<img src="https://cdn.simpleicons.org/wireshark/00FF41" height="40" alt="wireshark"/>
-
-`Wireshark` `Nmap` `TCPDump` `Aircrack-ng` `Traffic Analysis` `Network Analysis`
-
-</td>
-
-</tr>
-<tr>
-<td width="33%" valign="top" align="center">
-
-### 🐧 Systems
-
-<img src="https://skillicons.dev/icons?i=linux,windows&theme=dark" height="40" alt="linux,windows"/>
-
-`Linux` `Windows` `Active Directory` `Users & Groups` `File Permissions` `System Config`
-
-</td>
-
-<td width="33%" valign="top" align="center">
-
-### 🐍 Programming
-
-<img src="https://skillicons.dev/icons?i=python,bash,playwright&theme=dark" height="40" alt="python,bash,playwright"/>
-
-`Python` `Bash` `Scapy` `Socket Programming` `Security Automation` `Playwright`
-
-</td>
-
-<td width="33%" valign="top" align="center">
-
-### ☁️ Cloud
-
-<img src="https://skillicons.dev/icons?i=aws&theme=dark" height="40" alt="aws"/>
-
-`AWS EC2` `Amazon S3` `AWS IAM`
-
-</td>
-
-</tr>
-</table>
+<p align="center">
+<img src="assets/skill-systems.svg" width="32%" alt="skill-systems"/>
+<img src="assets/skill-programming.svg" width="32%" alt="skill-programming"/>
+<img src="assets/skill-cloud.svg" width="32%" alt="skill-cloud"/>
+</p>
 
 ---
 
@@ -155,10 +104,10 @@ A peer-to-peer file-transfer app for devices on the same local Wi-Fi network.
 
 ## 🎓 Education
 
-| Qualification | Institution | Score | Years |
-|---|---|---|---|
-| B.Tech — Information Technology | AVC College of Engineering | CGPA 8.18 | 2023 – 2026 |
-| Diploma — Information Technology | AVC Polytechnic College | 94% | 2020 – 2023 |
+<p align="center">
+<img src="assets/edu-btech.svg" width="48%" alt="B.Tech"/>
+<img src="assets/edu-diploma.svg" width="48%" alt="Diploma"/>
+</p>
 
 ---
 
